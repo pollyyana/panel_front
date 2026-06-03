@@ -1,0 +1,6 @@
+build/
+.cursor/
+.vscode/
+cloudflared-linux-amd64.deb
+*.md
+.gitlab-ci.yml
