@@ -1,11 +1,14 @@
 # Panel
 
+
 **Centralizar tudo em um único lugar e reduzir o tempo entre o problema acontecer e o time perceber.**
 
 Painel de monitoramento em tempo real para times que vivem no GitLab: push, CI, merge requests e issues viram cartões visíveis no quadro — com alertas no Telegram quando algo importa acontece.
 
 ---
+> **Repositório público** — contém apenas o código do frontend (Flutter) para visualização. O backend, infraestrutura e configurações estão em repositório privado - Ainda em desenvolvimento de funcionalidades.
 
+---
 ## Por que usar
 
 - **Um só lugar** para acompanhar vários repositórios (ex.: `panel`, `log`, `farm`)
